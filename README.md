@@ -7,9 +7,3 @@ Complete axiomatics and experimental verification of the fundamental asymmetry c
 - Experimental protocols (Loschmidt echo, spin chains)
 - Mathematical proofs and categorical formalization
 - Connection to fundamental constants (h, c, G, α)
-
-## Status
-✅ Axiomatics complete  
-✅ Mathematical proofs verified  
-✅ Experimental protocols designed  
-🔬 Awaiting laboratory implementation
