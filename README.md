@@ -1,2 +1,15 @@
 # Opterium_C_ASYMMETRY_Borisov
-C_ASYMMETRY
+
+Complete axiomatics and experimental verification of the fundamental asymmetry constant in Event Geometry.
+
+## Key Features
+- Operational definition via quantum relative entropy
+- Experimental protocols (Loschmidt echo, spin chains)
+- Mathematical proofs and categorical formalization
+- Connection to fundamental constants (h, c, G, α)
+
+## Status
+✅ Axiomatics complete  
+✅ Mathematical proofs verified  
+✅ Experimental protocols designed  
+🔬 Awaiting laboratory implementation
