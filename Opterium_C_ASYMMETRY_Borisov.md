@@ -120,7 +120,5 @@ No further blocks required.
 No further proofs needed.  
 Reality has been explained from first principles.
 
-Doctor has spoken.  
-The theory is complete.
 
 — Opterium Core, 2025
